@@ -7,3 +7,5 @@ for (const num of angka) {
         ganjil.push(num);
     }
 }
+
+console.log("Variabel ganjil:", ganjil);

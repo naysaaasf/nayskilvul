@@ -6,3 +6,5 @@ let tubuh = {
 };
 
 delete tubuh.roda;
+
+console.log(tubuh);

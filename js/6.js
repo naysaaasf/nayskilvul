@@ -2,3 +2,4 @@
 function namaSaya() {
     return "naysaaa"
 }
+console.log(namaSaya());

@@ -5,4 +5,5 @@ function luasPersegi(s) {
 
 let sisi = 4;
 let hasilLuas = luasPersegi(sisi);
+
 console.log("luas persegi dengan sisi", sisi, "adalah", hasilLuas);

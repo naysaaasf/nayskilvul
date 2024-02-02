@@ -2,3 +2,5 @@
 let manusia = {};
 manusia.ekor = false;
 manusia['ekor'] = false;
+
+console.log(manusia);

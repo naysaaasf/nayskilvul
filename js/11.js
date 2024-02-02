@@ -6,3 +6,4 @@ let kucing = {
         return "meong";
     }
 };
+console.log(kucing.suara());
