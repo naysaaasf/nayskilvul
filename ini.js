@@ -141,7 +141,6 @@ console.log(angka);
 console.log(i);
 
 // Default Parameter
-// Tulis kode kalian di bawah ini
 function warnaKesukaan(warna = "putih") {
     return "Warna kesukaan saya adalah " + warna;
 }
